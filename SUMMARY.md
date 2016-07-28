@@ -1,5 +1,6 @@
 # Summary
 
-* [Variables in Javascript](variables_in_javascript.md)
+* [Introduction](README.md)
 * [Hello](Hello.md)
+* [Variables in Javascript](variables_in_javascript.md)
 
