@@ -1,4 +1,4 @@
 # Summary
 
-* Variables in Javascript
+* [Variables in Javascript](variables_in_javascript.md)
 
