@@ -8,13 +8,13 @@ William J. Moner, PhD
 Assistant Professor of Communications
 Elon University
 Office: Powell 203
-Office Hours: W 10:00 - 11:30; 12:30 - 2:30
+Office Hours: W 10:00 - 11:30; 12:30 - 2:30 or by appointment
 Phone: 336-278-5716
 Email: wmoner@elon.edu
 
 ### Important Dates
 
-September 29, 2016: Fall Convocation with Bob Woodward
+September 29, 2016: Fall Convocation with Bob Woodward (course schedule/time adjustment)
 October 17 - 18, 2016: Fall Break
 November 19 - 27, 2016: Thanksgiving Break
 
@@ -48,6 +48,11 @@ Haverbeke, M. (2015). *Eloquent Javascript, Second Edition: A modern introductio
 - Chapters 12-19
 - Chapter 20
 
+### Course Resources
+
+Codecademy
+Free Code Camp
+
 ### Modules
 
 - Wordpress: Content Management Systems
@@ -61,7 +66,7 @@ Haverbeke, M. (2015). *Eloquent Javascript, Second Edition: A modern introductio
 - Programming: Variables and Data Types (concepts)
 - Programming: Conditional Logic (if/else, case)
 - Programming: Control Structures (Loops)
-- Programming: Data Structures (Arrays, 
+- Programming: Data Structures (Arrays, Objects)
 - Programming: Object-Oriented Principles
 - Systems: Node & server-side scripting
 - Systems: Templating systems
@@ -72,7 +77,7 @@ Haverbeke, M. (2015). *Eloquent Javascript, Second Edition: A modern introductio
 - Game: Rock, Paper, Scissors
 - Game: Tic-Tac-Toe
 - Game: Quiz Game
-- Game: Collider
+- Game: Breakout https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript
 - Agile Methodologies
 - Design Sprints
 
@@ -80,7 +85,7 @@ Haverbeke, M. (2015). *Eloquent Javascript, Second Edition: A modern introductio
 
 - Exploration
 - Focus
-- Refine
+- Ideate
 - Prototype
 - Test
 

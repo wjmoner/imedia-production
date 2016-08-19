@@ -4,7 +4,7 @@
 
 * [Syllabus](syllabus.md)
 
-## Part One: Master Course Outline and Structure (to be subdivided)
+## Chapters
 
 * [Introduction](Readme.md)
 * [Hello](Hello.md)
@@ -15,3 +15,10 @@
 * [Chapter 4: Working with Video](chapter-04/Readme.md)
 * [Chapter 5: Basic Character Animation](chapter-05/Readme.md)
 * [Chapter 6: Character Control](chapter-06/Readme.md)
+
+## Modules
+
+* [Internet Protocols](module-01/protocols.md)
+* [Network Topologies](module-01/topologies.md)
+* [Rock-Paper-Scissors](rock-paper-scissors.md)
+
