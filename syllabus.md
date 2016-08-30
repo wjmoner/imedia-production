@@ -26,17 +26,15 @@ This course covers the fundamental practices associated with interactive media p
 
 Understand fundamental interactive media development concepts using common industry development tools in order to reinforce technique that may be applied beyond the scope of this course. Emerge with enhanced technical skills and theoretically-informed insights into interactivity and its increasingly significant role in a variety of communications contexts.
 
-### Course Schedule
-
-
-
 ### Course Objectives
 
 Javascript: several small, functional projects will be completed  
 
-Interactive Media: HTML5 Canvas Game + Audio Project + Eko Video Project  
+Interactive Media: HTML5 Canvas Game + Web Audio Project + Eko Video Project  
 
-Wordpress: your course portfolio and process documentation will be stored here, under your complete control using specific themes, child themes, and plugins  
+Final Project: A fully-functional game or interactive media project fulfilling a specific objective, using a Javascript framework such as jQuery, D3.js, or HTML5 game frameworks
+
+Wordpress: your course portfolio and process documentation will be stored here, under your complete control using specific themes, child themes, and plugins (ongoing) 
 
 Journal: part of Wordpress, journal entries are for reflection and growth  
 
@@ -44,62 +42,45 @@ Future Tech Panels: exploring new dimensions of interactive media (after fall br
 
 ### Course Readings
 
-Foote, S. (2015). *Learning to Program*. Upper Saddle River, NJ: Addison-Wesley.   
+Manovich, L. (2001). *Language of New Media*. pp. 45 - 74. (In Course Dropbox unless otherwise specified.)  
 
-- Chapter 1: “Hello World” 
-- Chapter 2: How Software Works
-- Chapter 3: Getting to Know Your Computer
+Murray, J. (2011). *Inventing the Medium*. Introduction, pp. 1 - 21 & Chapter 2, Affordances of the Digital Medium, pp. 51 - 85.
 
-Haverbeke, M. (2015). *Eloquent Javascript, Second Edition: A modern introduction to programming*. San Francisco: No Starch Press.  
-
-- Chapters 1-6 
-- Chapters 12-19
-- Chapter 20
-
-### Course Resources
+### Course Supplemental Resources
 
 Codecademy  
-Free Code Camp  
+Free Code Camp 
+Lynda 
 
-### Modules
+### Course Schedule
 
-- Wordpress: Content Management Systems  
-- Wordpress: Web and mobile publishing  
-- Wordpress: Plugin architecture  
-- Wordpress: Theme customization  
-- Production: Interactive Audio  
-- Production: Interactive Video  
-- Production: Code optimization  
-- Programming: Languages and Concepts  
-- Programming: Variables and Data Types (concepts)  
-- Programming: Conditional Logic (if/else, case)  
-- Programming: Control Structures (Loops)  
-- Programming: Data Structures (Arrays, Objects)  
-- Programming: Object-Oriented Principles  
-- Systems: Node & server-side scripting  
-- Systems: Templating systems  
-- Systems: PHP & MySQL  
-- Systems: SQL  
-- Systems: CRUD
-- Systems: Git & version management
-- Game: Rock, Paper, Scissors
-- Game: Tic-Tac-Toe
-- Game: Quiz Game
-- Game: Breakout https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript
-- Agile Methodologies
-- Design Sprints
+#### Week 1: Interactive Media Theory; Github Introduction; Flowcharting
 
-### Journals
+#### Week 2: Wordpress Setup and Configuration; Client/Server and Peer-to-peer networking; Computer Fundamentals; Browser/DOM and web console
 
-- Exploration
-- Focus
-- Ideate
-- Prototype
-- Test
+#### Week 3: Javascript Programming Fundamentals
 
-### Report
+#### Week 4: Writing Javascript Programs
 
-FutureTech Mini-Conferences
+#### Week 5: Data Structures
+
+#### Week 6: SQL
+
+#### Week 7: CRUD Interfaces & Template Systems
+
+#### Week 8: JSON & Web APIs
+
+#### Week 9: HTML5 Canvas
+
+#### Week 10: Sprite Sheets and Scripted Animation 
+
+#### Week 11: Interactive Audio
+
+#### Week 12: Interactive Video 
+
+#### Weeks 13 - 15: Production
+
+### FutureTech Mini-Conferences
 (3 panelists per conference)
 
 1. Virtual Reality interfaces (history, Oculus Rift, HTC Vive)
@@ -109,10 +90,10 @@ FutureTech Mini-Conferences
 5. Connected Entertainment (smart TVs, the social layer, video game consoles and communications)
 6. Cultural Studies (feminism, post-colonialism, alternative/resistance media)
 7. Sociotechnical Considerations (privacy & surveillance, hacking, sous-veillance)
-8. “Gonzo” panel
+8. “Gonzo” panel (the outer limits of technology and the arts)
 
 
-Questions/prompts:
+Potential questions/prompts:
 1. Who are the major and minor competitors in the marketplace?
 2. What technological affordances does the topic area utilize?
 3. What are the human interface considerations for this technology or set of technologies?
