@@ -20,25 +20,36 @@ November 19 - 27, 2016: Thanksgiving Break
 
 ### Course Description
 
-This course covers the fundamental practices associated with interactive media production, including interface design, applied multimedia and usability refinement. In the effort to provide users with optimized opportunities for choice and control, students will apply design guidelines such as Shneiderman’s eight Golden Rules and production/design trends emerging in various industries. Students will author interactive experiences and explore historical origins as well as today’s best practices.
+Covers the fundamental practices associated with interactive media production, including interface design, applied multimedia and usability refinement. In the effort to provide users with optimized opportunities for choice and control, students will apply design guidelines and production design trends emerging in various industries. Students will author interactive experiences and explore historical origins as well as today’s best practices.
 
 ### Course Goal
 
-Understand fundamental interactive media development concepts using common industry development tools in order to reinforce technique that may be applied beyond the scope of this course. Emerge with enhanced technical skills and theoretically-informed insights into interactivity and its increasingly significant role in a variety of communications contexts.
+Understand fundamental interactive media development concepts using common industry development tools in order to reinforce techniques that may be applied beyond the scope of this course. Emerge with enhance technical skills and theoretically-informed insights into interactivity and its increasingly significant role in a variety of communications contexts.
 
-### Course Objectives
+### Learning Objectives
 
-Javascript: several small, functional projects will be completed  
+Students will be able to:
 
-Interactive Media: HTML5 Canvas Game + Web Audio Project + Eko Video Project  
+- explain the *history and roles of media in society* as related to interactive media production and web development
+- *employ the tools of technology* (hardware and software) necessary for producing interactive media messages
+- *use theory in producing media content* and demonstrate fundamental skills in design for interactive media
+- *apply numerical concepts* in the application of programming principles and data manipulation for interactive interfaces
+
+### Course Activities
+
+Javascript: several small, functional projects will be completed   with a focus on introducing Javascript libraries for various purposes. These include jQuery, Google Maps API & D3.js.
+
+Interactive Media: Game Player Control + HTML5 Canvas Game + Web Audio Project + Eko Video Project  
 
 Final Project: A fully-functional game or interactive media project fulfilling a specific objective, using a Javascript framework such as jQuery, D3.js, or HTML5 game frameworks
 
 Wordpress: your course portfolio and process documentation will be stored here, under your complete control using specific themes, child themes, and plugins (ongoing) 
 
-Journal: part of Wordpress, journal entries are for reflection and growth  
+Journal: part of your Wordpress requirements, journal entries are for reflection and growth. You will use the “posts” functionality of your Wordpress in a category called “Journal” to log your thoughts and reflections on the work you’re doing in the course. 
 
-Future Tech Panels: exploring new dimensions of interactive media (after fall break)  
+Quizzes: quantitative measurement of course progress. Quizzes are as much for me as they are for you. Quizzes are points-based and will be scored individually, and the final score for the quizzes will be aggregated cumulatively at the end of the semester, when the score will be tallied and curved.
+
+Future Tech Panels (presentation): exploring new dimensions of interactive media (after fall break)  
 
 ### Course Readings
 
@@ -46,29 +57,41 @@ Manovich, L. (2001). *Language of New Media*. pp. 45 - 74. (In Course Dropbox un
 
 Murray, J. (2011). *Inventing the Medium*. Introduction, pp. 1 - 21 & Chapter 2, Affordances of the Digital Medium, pp. 51 - 85.
 
+***Additional Readings TBD***
+
 ### Course Supplemental Resources
 
 Codecademy  
 Free Code Camp 
 Lynda 
 
+### Grading 
+
+iMedia: H, H-, P, P-, L, F  
+
+Quizzes: 15%  
+Assignments: 30%  
+Final Project: 20%  
+Journals: 15%  
+Presentation: 10%  
+
 ### Course Schedule
 
 #### Week 1: Interactive Media Theory; Github Introduction; Flowcharting
 
-#### Week 2: Wordpress Setup and Configuration; Client/Server and Peer-to-peer networking; Computer Fundamentals; Browser/DOM and web console
+#### Week 2: Wordpress Setup and Configuration; Client/Server and Peer-to-peer networking; Computer Fundamentals; Javascript, Browser/DOM and web console
 
 #### Week 3: Javascript Programming Fundamentals
 
-#### Week 4: Writing Javascript Programs
+#### Week 4: Writing Javascript Programs (Conditionals, Control Structures, one-dimensional arrays)
 
-#### Week 5: Data Structures
+#### Week 5: Data Structures (Arrays & Objects)
 
-#### Week 6: SQL
+#### Week 6: SQL (SELECT, FROM, WHERE, %, INSERT, UPDATE, DELETE) 
 
 #### Week 7: CRUD Interfaces & Template Systems
 
-#### Week 8: JSON & Web APIs
+#### Week 8: JSON & Web APIs (Google Maps)
 
 #### Week 9: HTML5 Canvas
 
