@@ -3,6 +3,7 @@
 ## Course Syllabus
 
 * [Syllabus](syllabus.md)
+* [Course Resources](resources.md)
 
 ## Modules
 

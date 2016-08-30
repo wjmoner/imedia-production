@@ -61,9 +61,10 @@ Murray, J. (2011). *Inventing the Medium*. Introduction, pp. 1 - 21 & Chapter 2,
 
 ### Course Supplemental Resources
 
-Codecademy  
-Free Code Camp 
-Lynda 
+- Codecademy   
+- Free Code Camp  
+- Lynda 
+- Others TBA
 
 ### Grading 
 
@@ -78,31 +79,58 @@ Presentation: 10%
 
 ### Course Schedule
 
-#### Week 1: Interactive Media Theory; Github Introduction; Flowcharting
+##### Week 1: Interactive Media Theory; Twitter; Github Introduction; Flowcharting
 
-#### Week 2: Wordpress Setup and Configuration; Client/Server and Peer-to-peer networking; Computer Fundamentals; Javascript, Browser/DOM and web console
+Readings from Manovich and Murray  
+Setup of course technologies
 
-#### Week 3: Javascript Programming Fundamentals
+##### Week 2: Wordpress Setup and Configuration; Client/Server and Peer-to-peer networking; Computer Fundamentals; Javascript, Browser/DOM and web console
 
-#### Week 4: Writing Javascript Programs (Conditionals, Control Structures, one-dimensional arrays)
+Computer theory
 
-#### Week 5: Data Structures (Arrays & Objects)
+##### Week 3: Javascript Programming Fundamentals
 
-#### Week 6: SQL (SELECT, FROM, WHERE, %, INSERT, UPDATE, DELETE) 
+Environment, variables, data types, operators
 
-#### Week 7: CRUD Interfaces & Template Systems
+##### Week 4: Writing Javascript Programs 
 
-#### Week 8: JSON & Web APIs (Google Maps)
+Conditionals, Control Structures, one-dimensional arrays
 
-#### Week 9: HTML5 Canvas
+##### Week 5: Data Structures (Arrays & Objects)
 
-#### Week 10: Sprite Sheets and Scripted Animation 
+Complex arrays, the object data type, JSON
 
-#### Week 11: Interactive Audio
+##### Week 6: SQL (SELECT, FROM, WHERE, %, INSERT, UPDATE, DELETE) 
 
-#### Week 12: Interactive Video 
+Working with SQL in a RDBMS environment
 
-#### Weeks 13 - 15: Production
+##### Week 7: CRUD Interfaces & Template Systems
+
+Building interface templates using a simple framework
+
+##### Week 8: JSON & Web APIs (Google Maps)
+
+Building a Google Maps interface
+
+##### Week 9: HTML5 Canvas
+
+Working with interactive programming
+
+##### Week 10: Sprite Sheets and Scripted Animation 
+
+Controlling motion and collisions
+
+##### Week 11: Interactive Audio
+
+Working with audio channels
+
+##### Week 12: Interactive Video 
+
+Working with Eko and branching video
+
+##### Weeks 13 - 15: Production
+
+Final project sprint and build
 
 ### FutureTech Mini-Conferences
 (3 panelists per conference)
