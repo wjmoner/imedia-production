@@ -6,17 +6,17 @@ Manovich, L. (2001). *Language of New Media*. pp. 45 - 74. (In Course Dropbox un
 
 Murray, J. (2011). *Inventing the Medium*. Introduction, pp. 1 - 21 & Chapter 2, Affordances of the Digital Medium, pp. 51 - 85.
 
-## Module Assignment 1 
+## Module Assignment A 
 
-Fall 2016: Assignment Due September 1
+Fall 2016: Assignment Due September 1  
 Needs: 1 stack of 3”x3” Post-It Notes  
 
 1. Read pp. 45 - 74 in Lev Manovich’s *Language of New Media*. 
 2. When you encounter a term within the reading that is either **important** or **difficult**, jot it down on a Post-It note. You will have two stacks at the end of this exercise: one stack for important or crucial points, and the other for difficult or challenging points in the reading. 
 3. Create as many individual notes as possible. Think of these as *nodes* that capture one key point per sticky note. Write large, clear, legible notes. If a sticky note contains two concepts, separate those out into individual concepts. For instance, *variability* can appear on a single note, but “GIF and JPEG images” may need to be simplified to “GIF” one one note and “JPEG” on a second. 
-4. Bring your stack of Post-It notes to class. Initial (e.g. WJM for William J. Moner) the back (sticky side) of every note you create. 
+4. Bring your stack of Post-It notes to class. Initial the back (sticky side) of every note you create (e.g. “TS” for Tony Stark or Taylor Swift). 
 
-## Module Assignment 2
+## Module Assignment B
 
 Fall 2016: Assignment Due September 6  
 Needs: 1 or 2 8.5” x 11” sheets of plain white paper
