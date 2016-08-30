@@ -70,9 +70,10 @@ Lynda
 iMedia: H, H-, P, P-, L, F  
 
 Quizzes: 15%  
-Assignments: 30%  
+Assignments: 30% (~ 3% per assignment) 
 Final Project: 20%  
-Journals: 15%  
+Journals: 15% 
+Wordpress: 10%  
 Presentation: 10%  
 
 ### Course Schedule
