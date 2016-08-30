@@ -4,19 +4,19 @@
 
 ### Instructor Information
 
-William J. Moner, PhD
-Assistant Professor of Communications
-Elon University
-Office: Powell 203
-Office Hours: W 10:00 - 11:30; 12:30 - 2:30 or by appointment
-Phone: 336-278-5716
-Email: wmoner@elon.edu
+William J. Moner, PhD  
+Assistant Professor of Communications  
+Elon University  
+Office: Powell 203  
+Office Hours: W 10:00 - 11:30; 12:30 - 2:30 or by appointment  
+Phone: 336-278-5716  
+Email: wmoner@elon.edu  
 
 ### Important Dates
 
-September 29, 2016: Fall Convocation with Bob Woodward (course schedule/time adjustment)
-October 17 - 18, 2016: Fall Break
-November 19 - 27, 2016: Thanksgiving Break
+September 29, 2016: Fall Convocation with Bob Woodward (course schedule/time adjustment)  
+October 17 - 18, 2016: Fall Break  
+November 19 - 27, 2016: Thanksgiving Break  
 
 ### Course Description
 
@@ -32,17 +32,25 @@ Understand fundamental interactive media development concepts using common indus
 
 ### Course Objectives
 
+Javascript: several small, functional projects will be completed  
 
+Interactive Media: HTML5 Canvas Game + Audio Project + Eko Video Project  
+
+Wordpress: your course portfolio and process documentation will be stored here, under your complete control using specific themes, child themes, and plugins  
+
+Journal: part of Wordpress, journal entries are for reflection and growth  
+
+Future Tech Panels: exploring new dimensions of interactive media (after fall break)  
 
 ### Course Readings
 
-Foote, S. (2015). *Learning to Program*. Upper Saddle River, NJ: Addison-Wesley. 
+Foote, S. (2015). *Learning to Program*. Upper Saddle River, NJ: Addison-Wesley.   
 
 - Chapter 1: “Hello World” 
 - Chapter 2: How Software Works
 - Chapter 3: Getting to Know Your Computer
 
-Haverbeke, M. (2015). *Eloquent Javascript, Second Edition: A modern introduction to programming*. San Francisco: No Starch Press.
+Haverbeke, M. (2015). *Eloquent Javascript, Second Edition: A modern introduction to programming*. San Francisco: No Starch Press.  
 
 - Chapters 1-6 
 - Chapters 12-19
@@ -50,28 +58,28 @@ Haverbeke, M. (2015). *Eloquent Javascript, Second Edition: A modern introductio
 
 ### Course Resources
 
-Codecademy
-Free Code Camp
+Codecademy  
+Free Code Camp  
 
 ### Modules
 
-- Wordpress: Content Management Systems
-- Wordpress: Web and mobile publishing
-- Wordpress: Plugin architecture
-- Wordpress: Theme customization
-- Production: Interactive Audio
-- Production: Interactive Video
-- Production: Code optimization
-- Programming: Languages and Concepts
-- Programming: Variables and Data Types (concepts)
-- Programming: Conditional Logic (if/else, case)
-- Programming: Control Structures (Loops)
-- Programming: Data Structures (Arrays, Objects)
-- Programming: Object-Oriented Principles
-- Systems: Node & server-side scripting
-- Systems: Templating systems
-- Systems: PHP & MySQL
-- Systems: SQL
+- Wordpress: Content Management Systems  
+- Wordpress: Web and mobile publishing  
+- Wordpress: Plugin architecture  
+- Wordpress: Theme customization  
+- Production: Interactive Audio  
+- Production: Interactive Video  
+- Production: Code optimization  
+- Programming: Languages and Concepts  
+- Programming: Variables and Data Types (concepts)  
+- Programming: Conditional Logic (if/else, case)  
+- Programming: Control Structures (Loops)  
+- Programming: Data Structures (Arrays, Objects)  
+- Programming: Object-Oriented Principles  
+- Systems: Node & server-side scripting  
+- Systems: Templating systems  
+- Systems: PHP & MySQL  
+- Systems: SQL  
 - Systems: CRUD
 - Systems: Git & version management
 - Game: Rock, Paper, Scissors
