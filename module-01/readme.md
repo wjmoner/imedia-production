@@ -29,7 +29,7 @@ Follow this process:
 
 1. Read Murray, *Inventing the Medium*, Introduction and Chapter 2. 
 2. Based on the exercise suggested in the section “Scripting the Interactor,” produce a unique hand-written procedure for the game “Tic-Tac-Toe” using pseudocode. Use the book as a starting point, but focus on the clarity of your own thoughts. 
-3. Create a flowchart based on the pseudocode you wrote.
+3. Create a [flowchart](flowcharts.pdf) based on the pseudocode you wrote.
 4. Bring both sheets to class with you.
 
 
