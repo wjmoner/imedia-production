@@ -8,7 +8,7 @@ Murray, J. (2011). *Inventing the Medium*. Introduction, pp. 1 - 21 & Chapter 2,
 
 Robomatter. (2005). Flowcharts. [PDF](flowcharts.pdf)
 
-## Module Assignment A 
+## Module Assignment 1.1
 
 Fall 2016: Assignment Due September 1  
 Needs: 1 stack of 3”x3” Post-It Notes  
@@ -18,7 +18,7 @@ Needs: 1 stack of 3”x3” Post-It Notes
 3. Create as many individual notes as possible. Think of these as *nodes* that capture one key point per sticky note. Write large, clear, legible notes. If a sticky note contains two concepts, separate those out into individual concepts. For instance, *variability* can appear on a single note, but “GIF and JPEG images” may need to be simplified to “GIF” one one note and “JPEG” on a second. 
 4. Bring your stack of Post-It notes to class. Initial the back (sticky side) of every note you create (e.g. “TS” for Tony Stark or Taylor Swift). 
 
-## Module Assignment B
+## Module Assignment 1.2
 
 Fall 2016: Assignment Due September 6  
 Needs: 1 or 2 8.5” x 11” sheets of plain white paper
