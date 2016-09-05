@@ -4,19 +4,23 @@
 
 ### Instructor Information
 
-William J. Moner, PhD  
-Assistant Professor of Communications  
-Elon University  
-Office: Powell 203  
-Office Hours: W 10:00 - 11:30; 12:30 - 2:30 or by appointment  
-Phone: 336-278-5716  
-Email: wmoner@elon.edu  
+William J. Moner, PhD    
+Assistant Professor of Communications    
+Elon University    
+Office: Powell 203    
+Office Hours: 
+- M 10:30 - 11:30
+- W 10:00 - 11:30 & 12:30 - 2:30
+- F 10:30 - 11:30 
+- Available by appointment or when my door is open    
+Phone: 336-278-5716    
+Email: wmoner@elon.edu    
 
 ### Important Dates
 
-September 29, 2016: Fall Convocation with Bob Woodward (course schedule/time adjustment)  
-October 17 - 18, 2016: Fall Break  
-November 19 - 27, 2016: Thanksgiving Break  
+September 29, 2016: Fall Convocation with Bob Woodward (course schedule/time adjustment)    
+October 17 - 18, 2016: Fall Break    
+November 19 - 27, 2016: Thanksgiving Break    
 
 ### Course Description
 
