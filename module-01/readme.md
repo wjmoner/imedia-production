@@ -32,5 +32,9 @@ Follow this process:
 3. Create a [flowchart](flowcharts.pdf) based on the pseudocode you wrote.
 4. Bring both sheets to class with you.
 
+## Module Assignment 1.3
 
+Fall 2016: Assignment Due September 8
 
+1. Read Chapters 2 & 3 of Foote, *Learning to Program*
+2. QUIZ, focusing on Chapters 2 and 3 of *Learning to Program* and the Murray readings + the presentation.
