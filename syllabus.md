@@ -38,6 +38,7 @@ Students will be able to:
 - *employ the tools of technology* (hardware and software) necessary for producing interactive media messages
 - *use theory in producing media content* and demonstrate fundamental skills in design for interactive media
 - *apply numerical concepts* in the application of programming principles and data manipulation for interactive interfaces
+- produce interactive content for web and other interface consumption
 
 ### Course Activities
 

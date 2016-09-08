@@ -11,7 +11,7 @@ Note: you will have at least three different sets of credentials from your web h
 
 ## Module Assignment 2.2
 
-Fall 2016: Due September 13
+Fall 2016: Due September 13 (will review in class)
 
 1. Install Cyberduck, Fetch, or another FTP program of your choosing on your own personal computer. (Ideally, this machine is your laptop.)
 2. Using the FTP credentials provided to you by your web hosting service, log in to the FTP server using SFTP as the protocol.
@@ -21,11 +21,17 @@ Fall 2016: Due September 13
 
 Fall 2016: Due September 13
 
-1. On a computer where you have administrative access, install MAMP (for Mac). (Ideally, this machine is your laptop.) 
-2. Install Wordpress from wordpress.org on your local machine.
+1. On a computer where you have administrative access, install [MAMP (for Mac)](https://www.mamp.info/en/) or [XAMPP (for Windows)](https://www.apachefriends.org/index.html). (Ideally, this machine is your laptop.) 
+2. Install Wordpress from wordpress.org on your local machine in the folder /Applications/MAMP/htdocs. 
 
 ## Module Assignment 2.4
 
-Fall 2016: Due September 13
+Fall 2016: Due September 15
 
-1. On your Wordpress installation on your remote hosting service, install [starter theme TBA].
+1. On your Wordpress installation on your remote hosting service, activate the twenty-sixteen theme.
+2. Complete the following:
+a. Create three pages and two blog posts on your remote Wordpress installation using the default Twenty Sixteen theme
+	- PAGES (3): Your Brief Bio + a photo; Your Hometown; Contact Information
+	- POSTS (2): An introductory, 150 word post about your reason for enrolling in iMedia + a post that shares and summarizes an article from the web/news covering one aspect of your interest in technology (e.g. virtual reality, games, gender studies, etc.) 
+b. Read Getting Started in the [Theme Handbook](https://developer.wordpress.org/themes/) 
+c. Read through [Best Wordpress Starter Themes for new Wordpress Developers](http://www.designbombs.com/8-best-wordpress-starter-themes-frameworks-new-wp-developers/)
