@@ -19,14 +19,14 @@ Fall 2016: Due September 13 (will review in class)
 
 ## Module Assignment 2.3
 
-Fall 2016: Due September 13
+Fall 2016: ~~Due September 13~~ OPTIONAL
 
 1. On a computer where you have administrative access, install [MAMP (for Mac)](https://www.mamp.info/en/) or [XAMPP (for Windows)](https://www.apachefriends.org/index.html). (Ideally, this machine is your laptop.) 
 2. Install Wordpress from wordpress.org on your local machine in the folder /Applications/MAMP/htdocs. 
 
 ## Module Assignment 2.4
 
-Fall 2016: Due September 15
+Fall 2016: Due September 13
 
 1. On your Wordpress installation on your remote hosting service, activate the twenty-sixteen theme.
 2. Complete the following:
@@ -35,6 +35,6 @@ a. Create three pages and two blog posts on your remote Wordpress installation u
 	- POSTS (2): An introductory, 150 word post about your reason for enrolling in iMedia + a post that shares and summarizes an article from the web/news covering one aspect of your interest in technology (e.g. virtual reality, games, gender studies, etc.) 
 	- CATEGORIES (2): add two categories (in addition to “Uncategorized”), one per post, your choice of label
 	- TAGS (~4): add tags, multiple per post, your choice of tag
-	- MENU: Customize the menu section (Appearance > Menu) to your liking
-b. Read Getting Started in the [Theme Handbook](https://developer.wordpress.org/themes/) 
+	- MENU: Customize the menu section (Appearance > Menu) to your liking  
+b. Read Getting Started in the [Theme Handbook](https://developer.wordpress.org/themes/)   
 c. Read through [Best Wordpress Starter Themes for new Wordpress Developers](http://www.designbombs.com/8-best-wordpress-starter-themes-frameworks-new-wp-developers/)
