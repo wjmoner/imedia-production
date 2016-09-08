@@ -4,7 +4,7 @@ TBA (lots of potential here)
 
 ## Javascript Debugging and Testing
 
-- [Google Developers > Javascript Console](https://developers.google.com/web/tools/chrome-devtools/debug/console/?hl=en)
+- [Google Developers > Javascript Console](https://developers.google.com/web/tools/chrome-devtools/debug/console/?hl=en) : a primer to the Google Chrome Developer’s Console for Javascript
 
 ## Wordpress Resources
 
