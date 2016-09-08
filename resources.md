@@ -14,6 +14,11 @@ TBA (lots of potential here)
 
 
 
+## Learning Code and Having Fun
+
+[Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) : a coding game for lots of platforms
+
+
 ## Coding Culture
 
 - **tl;dr** : too long, didn’t read. Useful for sharing a quick summary of an article/post that you know someone won’t read. 
