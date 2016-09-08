@@ -33,5 +33,8 @@ Fall 2016: Due September 15
 a. Create three pages and two blog posts on your remote Wordpress installation using the default Twenty Sixteen theme
 	- PAGES (3): Your Brief Bio + a photo; Your Hometown; Contact Information
 	- POSTS (2): An introductory, 150 word post about your reason for enrolling in iMedia + a post that shares and summarizes an article from the web/news covering one aspect of your interest in technology (e.g. virtual reality, games, gender studies, etc.) 
+	- CATEGORIES (2): add two categories (in addition to “Uncategorized”), one per post, your choice of label
+	- TAGS (~4): add tags, multiple per post, your choice of tag
+	- MENU: Customize the menu section (Appearance > Menu) to your liking
 b. Read Getting Started in the [Theme Handbook](https://developer.wordpress.org/themes/) 
 c. Read through [Best Wordpress Starter Themes for new Wordpress Developers](http://www.designbombs.com/8-best-wordpress-starter-themes-frameworks-new-wp-developers/)
