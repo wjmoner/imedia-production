@@ -9,6 +9,8 @@ Read/review the Introduction + Chapters 1 & 2 by Thursday
 - What is Javascript, p. 6
 - The six data types, p. 12
 
+Get the code: Hop over to [https://github.com/wjmoner/imedia-production] and Download (big green button) the repository. You’ll find js-start in there. **FOR ANY NEW PROJECT, MAKE A COPY OF IT BEFORE PROCEEDING.** 
+
 ## Module 4.1: Operations
 
 Due Thursday
