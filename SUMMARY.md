@@ -12,6 +12,10 @@
 * [Session 02: New Media Theory + Flowcharting](lesson-plans/session02.md)
 * [Session 03: Theory Review](lesson-plans/session03.md)
 * [Session 04: Wordpress and Computer Principles](lesson-plans/session04.md)
+* [Session 05: Javascript Basics](lesson-plans/session04.md)
+* [Session 06: Arithmetic and Interaction in JS](lesson-plans/session06.md)
+* [Session 07: Conditional Logic and Flow](lesson-plans/session07.md)
+* [Session 08: Loops and Functions](lesson-plans/session08.md)
 
 ## Modules
 
