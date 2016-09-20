@@ -14,7 +14,7 @@ session07.md
 - BONUS: Complete *eighty points* worth of material…
 - SUPER ULTRA BONUS: Complete *120 points* worth of material…
 
-### ASSIGNMENT DUE NEXT TUESDAY:
+### ASSIGNMENT [NOT] DUE NEXT TUESDAY, BUT SOON, SO DO IT ANYWAY:
 1. Write a program to solve the FizzBuzz problem on p. 38 of *Eloquent Javascript*. Bring this code with you to class.
 2. Write a program to solve the Minimum problem on p. 56 of *Eloquent Javascript*. Bring this code with you to class. 
 
